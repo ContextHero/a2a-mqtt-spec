@@ -2,9 +2,6 @@
 layout: default
 title: A2A-over-MQTT Protocol Specification
 permalink: /a2a-spec/
-redirect_from:
-  - /a2a-spec/index.html
-  - /spec/
 ---
 
 # A2A-over-MQTT Protocol Specification v1.0.0
