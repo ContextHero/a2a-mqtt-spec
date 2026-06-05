@@ -1,0 +1,24 @@
+title: ContextHub Docs
+description: A2A-over-MQTT Protocol Specification and ContextHub documentation
+url: https://docs.contexthub.io
+theme: jekyll-theme-cayman
+plugins:
+  - jekyll-relative-links
+  - jekyll-redirect-from
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - CONTRIBUTING.md
+  - CHANGELOG.md
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+exclude:
+  - LICENSE
+  - .github
+  - vendor
+  - Gemfile
+  - Gemfile.lock
