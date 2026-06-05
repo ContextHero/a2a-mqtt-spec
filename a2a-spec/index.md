@@ -3,8 +3,8 @@ layout: default
 title: A2A-over-MQTT Protocol Specification
 permalink: /a2a-spec/
 redirect_from:
-  - /spec/
   - /a2a-spec/index.html
+  - /spec/
 ---
 
 # A2A-over-MQTT Protocol Specification v1.0.0
@@ -463,10 +463,11 @@ With the requirement that you include the original license.
 **Last Updated**: 2026-06-05  
 **Maintainer**: ContextHero Engineering Circle
 
+
 ---
 
 ## Companion documents
 
-- [MQTT Topic Architecture](mqtt-topics.html)
-- [Agent Registry](agent-registry.html)
+- [MQTT Topic Architecture](/a2a-spec/mqtt-topics.html)
+- [Agent Registry](/a2a-spec/agent-registry.html)
 - [Examples directory](https://github.com/ContextHero/a2a-mqtt-spec/tree/main/examples)
